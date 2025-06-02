@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "OptimizacionOLAPFV", "OptimizacionOLAPFV.dwproj", "{3F0B3A64-EA5C-8364-80E2-8BBE0330C184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0B3A64-EA5C-8364-80E2-8BBE0330C184}.Development|Default.ActiveCfg = Development
+		{3F0B3A64-EA5C-8364-80E2-8BBE0330C184}.Development|Default.Build.0 = Development
+		{3F0B3A64-EA5C-8364-80E2-8BBE0330C184}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED42C095-ACD8-476E-9B97-1DD6739E60BF}
+	EndGlobalSection
+EndGlobal
